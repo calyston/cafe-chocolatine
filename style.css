@@ -58,16 +58,23 @@ body {
 }
 
 h1 {
-  font-size: 3.2rem;
+  font-size: 4rem;
   font-weight: bold;
   text-transform: uppercase;
   text-shadow: 3px 3px 3px grey;
+  padding: 2rem;
 }
 
 h2 {
   font-size: 2.4rem;
   text-transform: uppercase;
   text-shadow: 2px 2px 2px grey;
+  padding: 2rem;
+}
+
+h3 {
+  font-size: 2rem;
+  padding: 2rem;
 }
 
 p, li {
@@ -93,4 +100,17 @@ nav li {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.intro li {
+  color: white;
+}
+
+.intro-text {
+  height: inherit;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
