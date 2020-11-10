@@ -166,10 +166,12 @@ nav li {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .products h1 {
   color: white;
+  margin-top: 3rem;
 }
 
 .products-grid {
@@ -195,4 +197,13 @@ nav li {
 .products-box p {
   padding: 1.5rem;
   text-align: center;
+}
+
+button {
+  color: #FFFFFF;
+  text-transform: uppercase;
+  background-color: #363027;
+  border: none;
+  padding: 1rem 3rem;
+  margin: 3rem;
 }
