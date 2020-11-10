@@ -173,7 +173,10 @@ nav li {
 
 .products-grid {
   display: grid;
-  background-color: linear-gradient(rgba(255, 255, 255, 0.8), transparent);
+  background: linear-gradient(rgba(255, 255, 255, 1), transparent);
+  grid-template-columns: 30rem 30rem 30rem;
+  grid-template-rows: 35rem;
+  gap: 2rem;
 }
 
 .products-box {
@@ -184,4 +187,9 @@ nav li {
 .products-box img {
   height: 30rem;
   width: 30rem;
+}
+
+.products-box p {
+  padding: 1.5rem;
+  text-align: center;
 }
