@@ -154,3 +154,13 @@ nav li {
   height: 40rem;
   padding: 2rem;
 }
+
+/* Products */
+
+.products {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), transparent), url("/assets/bread.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
