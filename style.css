@@ -163,4 +163,25 @@ nav li {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  display: flex;
+  justify-content: center;
+}
+
+.products h1 {
+  color: white;
+}
+
+.products-grid {
+  display: grid;
+  background-color: linear-gradient(rgba(255, 255, 255, 0.8), transparent);
+}
+
+.products-box {
+  box-shadow: 3px 3px 3px grey;
+  background-color: #F7C56A;
+}
+
+.products-box img {
+  height: 30rem;
+  width: 30rem;
 }
