@@ -2,6 +2,8 @@
 
 Cafe Chocolatine is a mock cafe single page website. This is my own design made with Adobe XD.
 
+![](Design-500w.png)
+
 ### Live Preview:
 
 
@@ -11,7 +13,7 @@ HTML, CSS, GIT.
 
 ## Personal Learnings
 
-This project was my first time designing a website, and I used Adobe XD to create the design.
+This project was my first time designing a website, and I used Adobe XD to create the design. I created a moodboard of various restaurant designs on Behance, and used them to inspire my own design.
 
 ## Installation Instructions
 
