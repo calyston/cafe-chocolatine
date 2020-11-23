@@ -236,12 +236,24 @@ footer {
 .contact {
   display: flex;
   align-items: flex-start;
+  justify-content: center;
 }
 
 .contact h4 {
+  text-transform: uppercase;
   padding-top: 0.5rem;
 }
 
 .contact p {
   padding: 0.5rem 2rem;
+}
+
+.sns {
+  display: flex;
+  justify-content: center;
+  padding: 6rem;
+}
+
+.fab {
+  margin: 1rem;
 }
