@@ -248,6 +248,14 @@ footer {
   padding: 0.5rem 2rem;
 }
 
+.contact-link {
+  cursor: pointer;
+}
+
+.contact-link:hover {
+  color: #F7C56A;
+}
+
 .sns {
   display: flex;
   justify-content: center;
@@ -256,6 +264,11 @@ footer {
 
 .fab {
   margin: 1rem;
+  cursor: pointer;
+}
+
+.fab:hover {
+  color: #F7C56A;
 }
 
 .trademark {
