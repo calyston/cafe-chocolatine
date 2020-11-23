@@ -251,9 +251,14 @@ footer {
 .sns {
   display: flex;
   justify-content: center;
-  padding: 6rem;
+  padding-top: 6rem;
 }
 
 .fab {
   margin: 1rem;
+}
+
+.trademark {
+  display: flex;
+  justify-content: center;
 }
